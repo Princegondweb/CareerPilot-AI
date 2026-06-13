@@ -34,3 +34,7 @@ AI outputs:
 - AI API Integration
 - Resume Upload Analysis
 - Login System
+## Demo
+ - ![Demo](Careerpilotfront.png)
+ - ![Demo](Careerpilotfront2.png)
+ - ![Demo](careerpilotbackend.png)
