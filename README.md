@@ -16,10 +16,7 @@ CareerPilot AI is an intelligent career mentor that helps students analyze their
 - Spring Boot
 - HTML, CSS, JavaScript
 - Bootstrap
-
-## 📸 Demo
-(Add screenshot here)
-
+  
 ## 💡 How it works
 User inputs:
 - Education
