@@ -1,0 +1,8 @@
+POST http://localhost:8080/career/analyze
+Content-Type: application/json
+
+{
+  "education":"BCA",
+  "skills":["Java","SQL"],
+  "targetRole":"Backend Developer"
+}
